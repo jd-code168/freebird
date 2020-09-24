@@ -1,0 +1,16 @@
+birditem.o
+button.o
+gamesecene.o
+main.o
+gamewindow.o
+pipeitem.o
+roaditem.o
+scoreitem.o
+qrc_BirdSource.o
+moc_birditem.o
+moc_button.o
+moc_gamesecene.o
+moc_gamewindow.o
+moc_pipeitem.o
+moc_roaditem.o
+moc_scoreitem.o
